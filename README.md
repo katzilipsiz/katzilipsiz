@@ -4,5 +4,9 @@ about me^
 19 y.o. 
 @schtengel
 
-tools stack:
-csharp / wpf / windowsforms / entityframework / maui / aspdotnet / java / mssql / firebird / access / word / excel / powerpoint / git / github / docker / visualstudio / intelijidea / ibexpert / windows / linux / manjaro / ubuntu / photoshop / paintnet / figma / notion / 
+<a href="https://github.com/psiyavush/github-stats">
+  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=schtengel&theme=transparent&card_height=320" />
+</a>
+<a href="https://github.com/psiyavush/convoychat">
+  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs?username=schtengel&layout=compact&langs_count=8&card_width=320&card_height=320&theme=transparent" />
+</a>
