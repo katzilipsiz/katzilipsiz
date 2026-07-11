@@ -5,8 +5,8 @@ about me^
 @schtengel
 
 <a href="https://github.com/psiyavush/github-stats">
-  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=schtengel&theme=transparent&card_height=320" />
+  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=schtengel&theme=transparent" />
 </a>
 <a href="https://github.com/psiyavush/convoychat">
-  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs?username=schtengel&layout=compact&langs_count=8&card_width=320&card_height=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs?username=schtengel&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
